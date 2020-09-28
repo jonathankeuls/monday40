@@ -3,9 +3,16 @@ body {
 }
 
 h1 {
-    color: green
+    color: green;
+    text-align: center;
+    margin-top: 130px;
+    font-size: 50px;
+    
 }
 
-button{
-    color: red
+button {
+    color: red;
+    margin-left: 638px;
+   
+    
 }
