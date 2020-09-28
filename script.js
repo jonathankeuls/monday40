@@ -2,12 +2,12 @@ const button = document.getElementById("theButton")
 
 function popupOnclick(){
     alert("Thanks")
-    console.log("Thanks")
+    console.log("Good job")
 }
 
 function popupOnmouseover(){
 alert("Click!")
-console.log("Click")
+console.log("Do it")
 }
 
 
