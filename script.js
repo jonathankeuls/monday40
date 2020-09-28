@@ -6,9 +6,9 @@ function popupOnclick(){
 }
 
 function popupOnmouseover(){
-alert("Click!")
-console.log("Do it")
-}
+    alert("Click!")
+    console.log("Do it")
+    }
 
 
 

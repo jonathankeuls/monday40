@@ -13,6 +13,11 @@ h1 {
 button {
     color: red;
     margin-left: 638px;
+    border-color: greenyellow;
+    background-color: rgba(128, 128, 128, 0.281)
    
     
+}
+button:active {
+transform: translateY(4px);
 }
